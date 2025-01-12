@@ -101,6 +101,7 @@ if __name__ == "__main__":
     # Import remaining packages
     from PIL import Image
     from tqdm import tqdm
+    # sys.path.append('C:/Users/Vanshi/Desktop') [in main method, supply paths as args]
     from model import Model
     
 
